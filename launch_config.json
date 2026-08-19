@@ -3,7 +3,7 @@
   "message": "success",
   "data": {
     "update": {
-      "enabled": true,
+      "enabled": false,
       "apk_url": "https://docs.qq.com/doc/p/09dda4f7a877e42ffa84105d0c27adf98ceaa608",
       "close_jump_url": "https://docs.qq.com/doc/p/09dda4f7a877e42ffa84105d0c27adf98ceaa608"
     },
