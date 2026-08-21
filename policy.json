@@ -2,13 +2,15 @@
   "code": 0,
   "message": "success",
   "data": {
-    "in_app_web": {
-      "enabled": false,
-      "url": "https://example.com/user-agreement"
+    "legal": {
+      "user_agreement_url": "https://example.com/user-agreement.html",
+      "privacy_policy_url": "https://example.com/privacy-policy.html"
     },
-    "external_browser": {
-      "enabled": false,
-      "url": "https://example.com/privacy-policy"
+    "startup_notice": {
+      "enabled": true,
+      "title": "服务公告",
+      "url": "https://example.com/notice.html",
+      "open_type": "in_app"
     }
   }
 }
