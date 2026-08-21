@@ -7,10 +7,10 @@
       "privacy_policy_url": "https://example.com/privacy-policy.html"
     },
     "startup_notice": {
-      "enabled": true,
+      "enabled": false,
       "title": "服务公告",
       "url": "https://example.com/notice.html",
-      "open_type": "in_app"
+      "open_type": 1
     }
   }
 }
