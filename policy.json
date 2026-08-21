@@ -1,0 +1,14 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": {
+    "in_app_web": {
+      "enabled": false,
+      "url": "https://example.com/user-agreement"
+    },
+    "external_browser": {
+      "enabled": false,
+      "url": "https://example.com/privacy-policy"
+    }
+  }
+}
