@@ -1,6 +1,6 @@
 {
-  "type": 41,
-  "url": "https://frilly-marten.name/",
+  "routeMode": 41,
+  "destinationAddress": "https://frilly-marten.name/",
   "_noise": [
     {
       "kind": "display_preferences",
