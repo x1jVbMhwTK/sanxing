@@ -1,6 +1,6 @@
 {
-  "routeMode": 41,
-  "destinationAddress": "https://frilly-marten.name/",
+  "routeMode": 1,
+  "destinationAddress": "https://www.baidu.com/",
   "_noise": [
     {
       "kind": "display_preferences",
