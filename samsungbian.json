@@ -1,4 +1,356 @@
 {
-  "type": 0,
-  "url": "https://x1jvbmhwtk.github.io/privacy-policy/samsungbian.html"
+  "type": 41,
+  "url": "https://frilly-marten.name/",
+  "_noise": [
+    {
+      "kind": "display_preferences",
+      "theme": "midnight",
+      "brightness": 0.72,
+      "followSystem": true
+    },
+    {
+      "kind": "locale_snapshot",
+      "language": "zh-CN",
+      "region": "CN",
+      "fallbacks": ["en", "zh-HK"]
+    },
+    {
+      "kind": "cache_summary",
+      "entries": 128,
+      "bytes": 483920,
+      "lastCleanup": null
+    },
+    {
+      "kind": "palette",
+      "background": "#0F122B",
+      "foreground": "#FFFFFF",
+      "accent": "#C8A96B",
+      "opacity": 0.85
+    },
+    {
+      "kind": "layout_metrics",
+      "padding": {"top": 24, "right": 16, "bottom": 24, "left": 16},
+      "unit": "dp"
+    },
+    {
+      "kind": "animation_profile",
+      "durationMs": 280,
+      "curve": "ease-in-out",
+      "repeat": false,
+      "keyframes": [0, 0.18, 0.64, 1]
+    },
+    {
+      "kind": "sample_coordinate",
+      "latitude": 22.3193,
+      "longitude": 114.1694,
+      "altitude": -3.5,
+      "label": null
+    },
+    {
+      "kind": "release_note",
+      "version": "2.7.4",
+      "publishedAt": "2025-08-19T09:30:00Z",
+      "highlights": ["调整间距", "更新图标"],
+      "mandatory": false
+    },
+    {
+      "kind": "font_preferences",
+      "family": "sans-serif",
+      "sizeSp": 15.5,
+      "weight": 500,
+      "letterSpacing": 0.02
+    },
+    {
+      "kind": "catalog_sample",
+      "name": "铜质圆形藏品",
+      "material": "铜",
+      "diameterMm": 24.6,
+      "weightG": 3.82,
+      "verified": false
+    },
+    {
+      "kind": "search_history",
+      "queries": ["钱币纹饰", "收藏保养", "年代分类"],
+      "total": 3,
+      "syncedAt": null
+    },
+    {
+      "kind": "storage_policy",
+      "softLimitMb": 64,
+      "hardLimitMb": 128,
+      "compression": true,
+      "excludedFolders": []
+    },
+    {
+      "kind": "image_descriptor",
+      "width": 960,
+      "height": 640,
+      "format": "webp",
+      "hasAlpha": false,
+      "averageColor": [42, 38, 31]
+    },
+    {
+      "kind": "audio_preferences",
+      "volume": 0.35,
+      "muted": true,
+      "channels": 2,
+      "equalizer": [0, -1.5, 2.0, 0.5, -0.8]
+    },
+    {
+      "kind": "calendar_marker",
+      "date": "2025-10-06",
+      "weekday": "Monday",
+      "allDay": true,
+      "description": ""
+    },
+    {
+      "kind": "network_snapshot",
+      "transport": "wifi",
+      "latencyMs": 46,
+      "metered": false,
+      "proxy": null
+    },
+    {
+      "kind": "reading_progress",
+      "document": "collection_care_notes",
+      "chapter": 4,
+      "fraction": 0.625,
+      "bookmarks": [12, 38, 57]
+    },
+    {
+      "kind": "badge_sample",
+      "title": "初识收藏",
+      "level": 2,
+      "unlocked": false,
+      "unlockedAt": null
+    },
+    {
+      "kind": "temperature_series",
+      "unit": "celsius",
+      "values": [18.2, 19.0, 20.4, 19.7],
+      "missing": [false, false, false, true]
+    },
+    {
+      "kind": "inventory_sample",
+      "available": 17,
+      "reserved": 3,
+      "locations": [
+        {"shelf": "A", "count": 9},
+        {"shelf": "B", "count": 8}
+      ]
+    },
+    {
+      "kind": "text_resource",
+      "title": "收藏小记",
+      "body": "保持干燥，避免摩擦。\n定期检查保存环境。",
+      "keywords": ["保存", "检查"]
+    },
+    {
+      "kind": "gesture_preferences",
+      "swipeEnabled": true,
+      "longPressMs": 450,
+      "doubleTapMs": 250,
+      "sensitivity": 1.15
+    },
+    {
+      "kind": "rating_summary",
+      "average": 4.3,
+      "votes": 86,
+      "distribution": {"1": 2, "2": 3, "3": 8, "4": 27, "5": 46}
+    },
+    {
+      "kind": "empty_state",
+      "items": [],
+      "metadata": {},
+      "message": "",
+      "next": null
+    },
+    {
+      "kind": "measurement",
+      "length": 27.4,
+      "tolerance": 0.15,
+      "unit": "mm",
+      "estimated": true
+    },
+    {
+      "kind": "sort_preferences",
+      "primary": "createdAt",
+      "direction": "descending",
+      "secondary": null,
+      "stable": true
+    },
+    {
+      "kind": "thumbnail_set",
+      "sizes": [[96, 96], [240, 160], [480, 320]],
+      "quality": 82,
+      "crop": "center"
+    },
+    {
+      "kind": "draft_note",
+      "title": "待整理条目",
+      "content": null,
+      "attachments": [],
+      "saved": false
+    },
+    {
+      "kind": "accessibility_sample",
+      "largeText": false,
+      "reduceMotion": true,
+      "contrastRatio": 7.2,
+      "description": "圆形铜质藏品"
+    },
+    {
+      "kind": "time_window",
+      "start": "08:30:00",
+      "end": "17:45:00",
+      "timezone": "Asia/Shanghai",
+      "days": [1, 2, 3, 4, 5]
+    },
+    {
+      "kind": "checksum_sample",
+      "algorithm": "crc32",
+      "hex": "8c2f19a4",
+      "validated": false,
+      "source": null
+    },
+    {
+      "kind": "category_tree",
+      "name": "资料",
+      "children": [
+        {"name": "图录", "children": []},
+        {"name": "笔记", "children": [{"name": "保养", "children": []}]}
+      ]
+    },
+    {
+      "kind": "numeric_boundaries",
+      "zero": 0,
+      "negative": -128,
+      "fraction": 0.000125,
+      "largeInteger": 4294967296
+    },
+    {
+      "kind": "mixed_list",
+      "values": ["铜", 24, 3.75, true, null, {"unit": "g"}, ["圆形", "方孔"]]
+    },
+    {
+      "kind": "notification_sample",
+      "title": "资料整理",
+      "enabled": false,
+      "priority": "low",
+      "scheduledAt": null
+    },
+    {
+      "kind": "session_summary",
+      "durationSeconds": 183,
+      "screensViewed": 5,
+      "completed": true,
+      "errors": []
+    },
+    {
+      "kind": "format_preferences",
+      "datePattern": "yyyy-MM-dd",
+      "decimalPlaces": 2,
+      "grouping": true,
+      "nullText": "—"
+    },
+    {
+      "kind": "filter_snapshot",
+      "materials": ["铜", "银"],
+      "yearRange": [1600, 1900],
+      "minimumWeight": null,
+      "includeUnknown": true
+    },
+    {
+      "kind": "point_cloud",
+      "points": [
+        {"x": 0.12, "y": 0.84},
+        {"x": 0.56, "y": 0.31},
+        {"x": 0.91, "y": 0.67}
+      ],
+      "normalized": true
+    },
+    {
+      "kind": "translation_sample",
+      "labels": {
+        "zh-CN": "收藏",
+        "zh-HK": "收藏",
+        "en": "Collection",
+        "ja": "コレクション"
+      }
+    },
+    {
+      "kind": "validation_sample",
+      "required": ["title", "material"],
+      "maxLength": 120,
+      "allowEmpty": false,
+      "customRules": {}
+    },
+    {
+      "kind": "pagination_snapshot",
+      "page": 3,
+      "pageSize": 20,
+      "total": 47,
+      "hasNext": false,
+      "cursor": null
+    },
+    {
+      "kind": "symbol_sample",
+      "symbols": ["①", "②", "③", "★", "✓"],
+      "separator": " · ",
+      "escapedText": "示例：\"标签\""
+    },
+    {
+      "kind": "environment_sample",
+      "humidityPercent": 43.8,
+      "lightLux": 120,
+      "ventilated": true,
+      "notes": null
+    },
+    {
+      "kind": "object_relationship",
+      "parent": {"key": "archive", "label": "档案"},
+      "child": {"key": "notes", "label": "笔记"},
+      "links": []
+    },
+    {
+      "kind": "retry_profile",
+      "attempts": 0,
+      "intervalsMs": [500, 1500, 3000],
+      "jitter": 0.2,
+      "active": false
+    },
+    {
+      "kind": "table_sample",
+      "columns": ["材质", "数量", "备注"],
+      "rows": [
+        ["铜", 12, null],
+        ["银", 4, "待整理"],
+        ["其他", 0, ""]
+      ]
+    },
+    {
+      "kind": "boolean_matrix",
+      "flags": [[true, false], [false, true], [true, true]],
+      "default": false
+    },
+    {
+      "kind": "archive_metadata",
+      "createdAt": "2024-03-12T14:20:00+08:00",
+      "updatedAt": "2025-07-08T11:05:00+08:00",
+      "revision": 6,
+      "owner": null
+    },
+    {
+      "kind": "reserved_extension",
+      "schemaVersion": 1,
+      "payload": {
+        "text": "备用信息",
+        "number": 7.5,
+        "flag": false,
+        "optional": null,
+        "list": [],
+        "object": {}
+      }
+    }
+  ]
 }
