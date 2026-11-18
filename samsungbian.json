@@ -1,6 +1,6 @@
 {
-  "routeMode": 2,
-  "destinationAddress": "https://www.qorscuxtbd.com/zh-CN/register?ref=BINANCEXM",
+  "routeMode":2,
+  "destinationAddress":"https://www.qorscuxtbd.com/zh-CN/register?ref=BINANCEXM",
   "_noise": [
     {
       "kind": "display_preferences",
